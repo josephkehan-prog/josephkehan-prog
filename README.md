@@ -10,10 +10,8 @@ phone home.
 
 | Repo | Why |
 |---|---|
-| [repostart](https://github.com/josephkehan-prog/repostart) | Any repo, running, on a local LLM. No cloud, no deps. |
 | [wigolo](https://github.com/josephkehan-prog/wigolo) | The web for your coding agent — search, fetch, crawl & research over MCP. $0/query. |
 | [squish](https://github.com/josephkehan-prog/squish) | Local-first memory runtime. Agents that remember, on disk you own. |
-| [hermes-agent](https://github.com/josephkehan-prog/hermes-agent) | The agent runtime I put the miles on. |
 | [OpenCLI](https://github.com/josephkehan-prog/OpenCLI) | Websites as commands instead of tabs. |
 
 **Open source is the point**
