@@ -29,7 +29,7 @@
   <text x="24" y="90" class="line l2"><tspan class="dim">boredinnyc — took time away from the dev space. it got boring.</tspan></text>
 
   <text x="24" y="122" class="line l3"><tspan class="green">$</tspan><tspan class="txt" dx="8">git status</tspan></text>
-  <text x="24" y="146" class="line l4"><tspan class="dim">On branch</tspan><tspan class="blue" dx="6">comeback</tspan><tspan class="dim" dx="6">— everything ahead of 'away', everything open source</tspan></text>
+  <text x="24" y="146" class="line l4"><tspan class="dim">On branch</tspan><tspan class="blue" dx="6">comeback</tspan><tspan class="dim" dx="6">— local by default, public when ready</tspan></text>
 
   <text x="24" y="178" class="line l5"><tspan class="green">$</tspan><tspan class="txt" dx="8">make ship</tspan></text>
   <text x="24" y="178" class="line l6" dx="108"><tspan class="dim">  local-first, no cloud, runs on hardware you own</tspan></text>
