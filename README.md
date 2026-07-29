@@ -1,24 +1,18 @@
-<img src="assets/header.svg" alt="terminal: boredinnyc — back in the dev space, everything open source, local-first" width="100%">
+<img src="assets/header.svg" alt="terminal: boredinnyc — building local-first tools" width="100%">
 
 ## Back. Bored. Building.
 
-Took time away from the dev space. The time away got boring. The comeback is
-all open source — tools for AI agents that run on your own machine and don't
-phone home.
+I took some time away from building. Then I missed it.
 
-**The comeback stack**
+I make local-first tools for AI and automation. I care about software that runs
+on hardware you control, keeps its state close, and makes its security
+boundaries easy to understand.
 
-| Repo | Why |
-|---|---|
-| [wigolo](https://github.com/josephkehan-prog/wigolo) | The web for your coding agent — search, fetch, crawl & research over MCP. $0/query. |
-| [squish](https://github.com/josephkehan-prog/squish) | Local-first memory runtime. Agents that remember, on disk you own. |
-| [OpenCLI](https://github.com/josephkehan-prog/OpenCLI) | Websites as commands instead of tabs. |
+**What matters to me**
 
-**Open source is the point**
+- Local by default
+- Clear permissions and honest failure modes
+- Useful tools without another subscription
+- Public code that is ready to be read, tested, and challenged
 
-- Fork it and own it — everything I ship, you can run, read, and rip apart
-- Forks I actually work on: when something is 80% right, I take it the rest of the way
-- No cloud, no API keys, nothing metered — local-first as a habit, not a pitch
-- Python, TypeScript, Rust, Go — whichever the job wants
-
-No roadmap. Things get built when waiting on a cloud API gets boring enough.
+No public roadmap or current-project list. I publish work when it is ready.
